@@ -54,7 +54,6 @@ namespace TailSpin.SpaceGame.Web.Controllers
                     "Pinwheel",
                     "NGC 1300",
                     "Messier 82",
-                    "test"
                 }
             };
 
